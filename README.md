@@ -32,7 +32,7 @@ the input graph is directed and the undirected needs to be transformed into dire
      
       The results are stored in the file (./output/embedding/HeGAN).
  ### get SM-miRNA_association_vector
- We use Hadamard, Average, Minus and Absolute Minus to get SM-miRNA pair vector
+ We use Hadamard, Average, Minus and Absolute Minus to get SM-miRNA pair vector and finally choose Hadamard function to get pair vector
  ### ClassifierSelection
   Predicting SM-miRNA associations could be considered as a binary classification problem. 
   
