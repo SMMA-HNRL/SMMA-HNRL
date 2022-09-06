@@ -1,5 +1,5 @@
 # SMMA-HNRL
-Source code for paper "Prediction Potential Small molecule−miRNA Associations Based on Heterogeneous Network Representation Learning”.
+Source code for paper "Prediction of Potential Small Mmolecule−miRNA Associations Based on Heterogeneous Network Representation Learning”.
 ## Get Started
 ### Evironment Setting
    Python version >= 3.6
