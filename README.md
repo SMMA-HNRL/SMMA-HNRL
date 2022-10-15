@@ -22,6 +22,8 @@ the input graph is directed and the undirected needs to be transformed into dire
        
 #### Modle Setup
    The model parameter could be modified in the file ( ./src/config.ini ).
+   
+   Note: If you want to train your own dataset, you need to declare your own dataset at the beginning of ./src/config.ini
        
 #### Common parameter :
       * dim : dimension of output
