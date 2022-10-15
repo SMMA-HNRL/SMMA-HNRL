@@ -32,7 +32,7 @@ the input graph is directed and the undirected needs to be transformed into dire
       
  #### Output :
      
-      The results are stored in the file (./output/embedding/HeGAN).
+      The results are stored in the file (./output/embedding/HeGAN) and (./output/embedding/HIN2vec).
  ### get SM-miRNA_association_vector
  We use Hadamard, Average, Minus and Absolute Minus to get SM-miRNA pair vector and finally choose Hadamard function to get pair vector
  ### ClassifierSelection
